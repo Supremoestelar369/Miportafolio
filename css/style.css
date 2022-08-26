@@ -765,12 +765,12 @@ main {
         margin-right: auto;
     }
        /* --------- skills-- */
-    /* .skills {
+    .skills {
     width: 70%;
     margin-right: auto;
     margin-left: auto;
     padding-bottom: 10px;
-    } */
+    } 
     /* ----------mi portafolio---- */
     .portafolio1 {
         width: 500px;
